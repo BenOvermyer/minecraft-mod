@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thrive",
+  "name": "Thrive",
+  "description": "A standalone mod that enhances the base Minecraft experience.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ben Overmyer"],
+  "credits": "Ben Overmyer made this.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
